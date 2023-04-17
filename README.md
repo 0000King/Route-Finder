@@ -4,7 +4,7 @@ A project to visualize the working of google maps.
 RAD studio - https://www.embarcadero.com/products/rad-studio
 # Usage
 1. Start the RAD Studio. <br/>
-2. Open the Unit1.cpp, Unti1.fmx, Unit1.h in RAD studio. <br/>
+2. Open Project1.cbproj in RAD studio. <br/>
 3. Now Execute it and enjoy. <br/>
 ![Screenshot (205)](https://user-images.githubusercontent.com/100368425/232440633-249be400-7352-4872-b8e6-d9fd4e060fcb.png) <br/>
 ![Screenshot (207)](https://user-images.githubusercontent.com/100368425/232440700-c65af1df-0af3-4d06-8b16-f27ea78a4bee.png) <br/>
